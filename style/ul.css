@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+
+ul {
+    list-style-image: url('../utility/images/icons/icons8-checkmark.svg');
+    /* border: 1px solid; */
+    /* content: url('../utility/images/icons/icons8-checkmark.svg'); */
+    /* position: relative;
+    left: -70px; 
+    top: 2px; 
+    width: 10px; 
+    height: 1px;  */
+}
+
+ul li{
+    /* border: 1px solid; */
+}
+
+
+
+
+
+
+
+
+
+
+
